@@ -1,0 +1,66 @@
+.AppTitle{
+    font-size: 50px;
+    margin-left:50px;
+    margin-top:15px;
+    margin-bottom:10px;
+    background: linear-gradient(-135deg, #9941D8, #E4A972);
+}
+
+.ListPosition{
+    margin-left:20px;
+    margin-top:10px;
+    text-align: center;
+    font-size:15px;
+    
+}
+
+.ResultGraph{
+    padding-left: 200px;
+}
+
+.ListResult{
+    margin-left:200px;
+    margin-top:10px; 
+    width: 500px;
+    border-style: solid;
+}
+
+.MorningResult{
+    font-size:30px;
+    margin-top: 10px;
+    margin-left:200px;
+    display:inline-block;
+}
+p.MorningResult{
+    display:inline-block;
+}
+PieChart.MorningResult{
+    display:inline-block;
+}
+
+.ListBox{
+    border-style: solid;
+    width:165px;
+}
+
+.ListBox img{
+    width: 130px;
+}
+
+.ListSelect{
+    margin:10px;
+}
+
+.ListText{
+    font-size: 15px;
+    margin-top:20px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.rowName{
+    border-style: solid;
+    font-size: 25px;
+    border-radius: 20px;
+    font-weight: bold;
+}
